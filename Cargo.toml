@@ -1,0 +1,8 @@
+[workspace]
+
+members = [
+    "mycrate",
+]
+
+[profile.release]
+debug = true
